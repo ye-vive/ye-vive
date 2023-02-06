@@ -1,6 +1,6 @@
-![MasterHead](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1610040101/Linkedin_Cover_-_Data-Driven_t1tqsx.png)
+![MasterHead](https://meridian.info/images/web-dev/banner.jpg)
 <h1 align="center">Hi there👋, I'm Vivek Kumar Suvam</h1>
-<h3 align="center">I'm a technical, vivacious, organised professional looking for a data analyst and machine learning engineer position to start my career. Although I got skills in web development too!</h3>
+<h3 align="center">I'm a technical, vivacious, organised professional looking for a web developer position to start my career.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ye-vive&label=Profile%20views&color=0e75b6&style=flat" alt="ye-vive" /> </p>
